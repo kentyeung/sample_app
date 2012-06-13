@@ -2,6 +2,8 @@ SampleApp::Application.routes.draw do
   get "static_p_ages/home"
 
   get "static_p_ages/help"
+  
+  get "static_p_ages/about"
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
